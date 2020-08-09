@@ -34,7 +34,7 @@ function Post()
                         <p>Bring out your Telescopes to explore Heavenly Bliss!!!</p>
                     </div>
                 </div>
-                <img src="https://images.unsplash.com/photo-1532767153582-b1a0e5145009?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" alt="" />
+                <img src="https://media0.giphy.com/media/FWtVYDHIxgGgE/giphy.gif" alt="" />
                 <div className="post__footer">
                     <ChatBubbleOutlineIcon fontsize="small" />
                     <RepeatIcon fontsize="small" />
